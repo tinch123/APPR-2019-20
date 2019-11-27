@@ -9,12 +9,13 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 ## Analiza poslovanja tujih notranjih podjetij v Sloveniji
 V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji od leta 2008 do 2017. Analizirala bom podjetja glede na gospodarske panonge in nato še glede na države nadzora (države iz katerih izvirajo), ter kako so se podjetja skozi leta spreminjala. 
+
 Primerjala bom:
--število tujih in domačih podjetij v Sloveniji, 
--prihodke od prodaje,
--stroške dela med nacionalnimi in tujimi podjetji,
--bruto investicije,
--število zaposlenih. 
+* število tujih in domačih podjetij v Sloveniji, 
+* prihodke od prodaje,
+* stroške dela med nacionalnimi in tujimi podjetji,
+* bruto investicije,
+* število zaposlenih. 
 
 
 Cilj naloge je prikazati pomembnost tujih podjetij v Sloveniji v primerjavi z domačimi podjetji.
