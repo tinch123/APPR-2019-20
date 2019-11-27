@@ -8,7 +8,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
 ## Analiza poslovanja tujih notranjih podjetij v Sloveniji
-V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji od leta 2008 do 2017. Analizirala bom podjetja glede na gospodarske panonge in nato še glede na države nadzora (države iz katerih izvirajo), ter kako so se podjetja skozi leta spreminjala. 
+V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji od leta 2008 do 2017. Analizirala bom podjetja glede na gospodarske panonge in nato še glede na države nadzora (države iz katerih izvirajo), ter kako so se podjetja skozi leta spreminjala. Podatke o temi bom iskala na [SURS](https://www.stat.si/statweb)
 
 Primerjala bom:
 * število tujih in domačih podjetij v Sloveniji, 
