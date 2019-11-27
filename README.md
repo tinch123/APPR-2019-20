@@ -1,14 +1,31 @@
-# Analiza podatkov s programom R, 2019/20
+# Analiza podatkov s programom R, 2018/19
+
+## Avtor: Tina Vovk
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2019/20
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=shiny/APPR-2019-20/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2019-20/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza poslovanja tujih notranjih podjetij v Sloveniji
+V projektu bom analizirala poslovanje tujih in nacionalnih podjetij v Sloveniji od leta 2008 do 2017. Analizirala bom podjetja glede na gospodarske panonge in nato še glede na države nadzora (države iz katerih izvirajo), ter kako so se podjetja skozi leta spreminjala. 
+Primerjala bom:
+-število tujih in domačih podjetij v Sloveniji, 
+-prihodke od prodaje,
+-stroške dela med nacionalnimi in tujimi podjetji,
+-bruto investicije,
+-število zaposlenih. 
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
+Cilj naloge je prikazati pomembnost tujih podjetij v Sloveniji v primerjavi z domačimi podjetji.
+
+
+
+Tabela 1: https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075810S.px/table/tableViewLayout2/
+
+Tabela 2:
+https://pxweb.stat.si/SiStatDb/pxweb/sl/20_Ekonomsko/20_Ekonomsko__30_globalizacija__05_30758_tuja_notr_podj/3075820S.px/table/tableViewLayout2/
+
 
 ## Program
 
